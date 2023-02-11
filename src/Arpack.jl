@@ -167,9 +167,6 @@ function _eigs(A, B;
     end
 
     whichstr = "LM"
-    if which == :SM
-        whichstr = "SM"
-    end
     if which == :BE
         whichstr = "BE"
     end
