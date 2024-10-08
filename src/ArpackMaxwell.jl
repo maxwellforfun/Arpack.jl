@@ -2,7 +2,7 @@
 """
 Arnoldi and Lanczos iteration for computing eigenvalues
 """
-module Arpack
+module ArpackMaxwell
 
 # Load in our binary dependencies
 using Arpack_jll
