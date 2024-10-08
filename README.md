@@ -6,6 +6,8 @@
 Julia wrapper for the [arpack](https://github.com/opencollab/arpack-ng/) library
 designed to solve large-scale eigenvalue problems.
 
+**Difference with the latest stable**: for my use case, there was a regression with shift and invert, so I removed an inversion and now matches other eigenvalue solvers :)
+
 ## Installation
 
 Install Arpack.jl through the Julia package manager:
