@@ -1,6 +1,6 @@
 # This file is a part of Julia. License is MIT: https://julialang.org/license
 
-using Arpack
+using ArpackMaxwell
 using Test, LinearAlgebra, SparseArrays, StableRNGs
 
 @testset "eigs" begin

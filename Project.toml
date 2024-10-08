@@ -1,5 +1,5 @@
 name = "ArpackMaxwell"
-uuid = "7d9fca2a-8960-54d3-9f78-7d1dccf2cb97"
+uuid = "8bae280b-30af-48a7-a169-91be01fae847"
 version = "0.5.5"
 
 [deps]
